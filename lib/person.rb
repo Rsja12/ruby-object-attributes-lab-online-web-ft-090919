@@ -21,6 +21,8 @@ end
 
 alfonso = Person.new 
 alfonso.job = "student"
+alfonso.job = "Worker"
+
 
 
 
